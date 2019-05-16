@@ -9,3 +9,7 @@ Tutorial github for Autonomous RC members
 ```pip install keras```
 * tensorflow (does not matter cpu or gpu version for now)
 ```pip install tensorflow```
+
+## Other useful packages
+* scipy
+* pandas
