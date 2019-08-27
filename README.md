@@ -1,15 +1,23 @@
 # ARC_tutorial
-Tutorial github for Autonomous RC members
+Computer Vision tutorial for Autonomous RC members
 
 ## Required packages
 * numpy
 ```pip install numpy```
-* anaconda with jupyter notebook
+* anaconda with jupyter notebook (https://www.anaconda.com/)
 * keras
 ```pip install keras```
-* tensorflow (does not matter cpu or gpu version for now)
+* tensorflow
+If your computer/laptop supports GPU (NVIDIA) only run below to install -gpu version.
+```pip install tensorflow-gpu```
+Otherwise, run
 ```pip install tensorflow```
+to have CPU support.
 
 ## Other useful packages
 * scipy
 * pandas
+* matplotlib
+
+## Useful resources
+Google colab provides free GPU instance notebook
